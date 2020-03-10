@@ -160,3 +160,16 @@ animate();
 
 </script>
 </html>
+
+
+// CSS 
+*{margin:0;padding:0;box-sizing:border-box;}
+#canvas{
+    position:fixed;
+    background:#222;
+
+}
+
+
+
+
